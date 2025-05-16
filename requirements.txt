@@ -1,0 +1,4 @@
+streamlit
+openai==0.28.0
+duckduckgo_search
+python-dotenv
